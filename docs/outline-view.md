@@ -24,7 +24,7 @@ You can provide the Outline [Atom service](http://flight-manual.atom.io/behind-a
 }
 ```
 
-Then, in your package entry point, add:
+Then, in your package entry point, add: hi anjing
 
 ```
 export function provideOutlines(): OutlineProvider {
